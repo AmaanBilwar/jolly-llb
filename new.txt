@@ -1,0 +1,7 @@
+ideas for jollyllb
+
+-have a footer for newsletter
+-90s retro old website style
+
+-make a chat bot potentially utilizing chat-gpt-3turbo llm 
+-make it answer only law questions using chat/completions
