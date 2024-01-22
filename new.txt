@@ -6,12 +6,18 @@ ideas for jollyllb
 -make it answer only law questions using chat/completions
 
 
+-backend in Java / SpringBoot? is it even doable ?
+-frontend in react js for sure -- (revise javascript)
+
+
+-Could later make a mobile app for easy accessibility
+
+
 -needs huge database
 -Clearly communicate the limitations of the chatbot and encourage users to consult a lawyer for complex or specific cases.
 -separate legal advise bases on states too maybe.
 -protect user data
 
 
--have a footer for newsletter
+-have a footer for newsletter -->  post updates about the current state and possibilities of teh app and also updates about the mobile app 
 -90s retro old website style
-
