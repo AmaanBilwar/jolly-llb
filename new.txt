@@ -21,3 +21,6 @@ ideas for jollyllb
 
 -have a footer for newsletter -->  post updates about the current state and possibilities of teh app and also updates about the mobile app 
 -90s retro old website style
+
+important ass video save thsi and use the mern stack rather than using java and react for full stack web app
+https://www.youtube.com/watch?v=wrHTcjSZQ1Y
